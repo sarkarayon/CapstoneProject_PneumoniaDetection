@@ -1,0 +1,2 @@
+# CapstoneProject_PneumoniaDetection
+Great Learning Capstone Project
